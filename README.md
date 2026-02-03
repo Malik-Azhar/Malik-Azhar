@@ -1,18 +1,33 @@
 # Hi there, I'm Malik Azhar Abbas 👋
 
-[cite_start]Full-stack web developer with 4 years of experience designing, developing, and scaling web applications[cite: 1, 3].
+Full-stack web developer with 4 years of experience designing, developing, and scaling web applications.
 
-- [cite_start]🚀 **Scale Expert:** Successfully handled systems for **10M+ monthly visitors** at Opinion Universe[cite: 8].
-- [cite_start]🛠️ **Modernizer:** Led migrations from legacy PHP to **React, Tailwind, and Redux Toolkit**[cite: 30, 31].
-- [cite_start]🔗 **API Specialist:** Built high-performance API integrations and comprehensive developer documentation[cite: 4, 12].
+- 🚀 **Scale Expert:** Successfully handled systems for **10M+ monthly visitors** at Opinion Universe.
+- 🏗️ **Modernizer:** Led migrations from legacy PHP to **React, Tailwind, and Redux Toolkit**.
+- 🔗 **API Specialist:** Built high-performance API integrations and comprehensive developer documentation.
 
 ### 💻 Tech Stack
-- [cite_start]**Frontend:** React JS, Javascript, Tailwind CSS, Material UI, Shadcn UI[cite: 30].
-- [cite_start]**Backend:** PHP (Laravel), Node.js, MySQL, PostgreSQL.
+- **Frontend:** React JS, Javascript, Tailwind CSS, Material UI, Shadcn UI.
+- **Backend:** PHP (Laravel), Node.js, MySQL, PostgreSQL.
 
 ### 📈 Stats & Impact
-- [cite_start]Refactored backend services to handle **5M+ monthly traffic spikes**[cite: 14].
-- [cite_start]Optimized request handling to support **millions of daily impressions**[cite: 13].
-- [cite_start]Reduced support requests by simplifying user workflows[cite: 17].
+- Refactored backend services to handle **5M+ monthly traffic spikes**.
+- Optimized request handling to support **millions of daily impressions**.
+- Reduced support requests by simplifying user workflows.
 
-[cite_start]📫 **Reach me at:** malikazharabbas317@gmail.com[cite: 2].
+📫 **Reach me at:** malikazharabbas317@gmail.com
+
+
+### Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</p>
