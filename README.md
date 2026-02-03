@@ -19,7 +19,7 @@ Full-stack web developer with 4 years of experience designing, developing, and s
 
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/malik-azhar-abbas-5a9b3a1b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR4QLikURRqKgZFRrREQKiA%3D%3D))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/malik-azhar-abbas-5a9b3a1b9)
 
 ### Languages and Tools:
 
